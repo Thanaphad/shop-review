@@ -1,5 +1,5 @@
 import { Redis } from "@upstash/redis";
-import seed from "@/shop.json";
+import seed from "@/shops.json";
 
 const KEY = "shops";
 const redis = new Redis({
