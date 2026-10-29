@@ -1,0 +1,151 @@
+[
+  {
+    "id": 101,
+    "name": "Cafe Cozy Corner",
+    "image": "/assets/cafe.png",
+    "description": "Specialty coffee shop with house-roasted beans and cozy workspace seating.",
+    "customers": [
+      {
+        "customerID": 9001,
+        "customerName": "Narin",
+        "rating": 5,
+        "review": "Excellent latte and very friendly baristas. Wi-Fi is also stable."
+      },
+      {
+        "customerID": 9002,
+        "customerName": "Mali",
+        "rating": 4,
+        "review": "Great atmosphere and desserts, but parking is a bit limited."
+      },
+      {
+        "customerID": 9003,
+        "customerName": "Thana",
+        "rating": 5,
+        "review": "The pour-over menu is impressive. Highly recommended for coffee lovers."
+      },
+      {
+        "customerID": 107,
+        "customerName": "awdadaw",
+        "rating": 1,
+        "review": "dawdawda"
+      },
+      {
+        "customerID": 107,
+        "customerName": "dwadawd",
+        "rating": 4,
+        "review": "awdawd"
+      },
+      {
+        "customerID": 107,
+        "customerName": "awd",
+        "rating": 2,
+        "review": "awd"
+      },
+      {
+        "customerID": 107,
+        "customerName": "awd",
+        "rating": 3,
+        "review": "123123"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "KFC Central Branch",
+    "image": "/assets/kfc.png",
+    "description": "Fast-food chicken restaurant with signature crispy menu and combo meals.",
+    "customers": [
+      {
+        "customerID": 9011,
+        "customerName": "Pim",
+        "rating": 4,
+        "review": "Broth tastes deep and flavorful. Portion size is generous."
+      },
+      {
+        "customerID": 9012,
+        "customerName": "Korn",
+        "rating": 3,
+        "review": "Good taste overall, but service was slow during peak hours."
+      },
+      {
+        "customerID": 9013,
+        "customerName": "Beam",
+        "rating": 5,
+        "review": "Best spicy noodles in this area. I will definitely come back."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Pizza Town",
+    "image": "/assets/pizza.png",
+    "description": "Freshly baked pizza shop offering classic and fusion toppings.",
+    "customers": [
+      {
+        "customerID": 9021,
+        "customerName": "Jane",
+        "rating": 5,
+        "review": "Fresh vegetables every time. Staff can explain product origins clearly."
+      },
+      {
+        "customerID": 9022,
+        "customerName": "Ton",
+        "rating": 4,
+        "review": "Good quality fruits, slightly higher price but worth it."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Ramen Yoko",
+    "image": "/assets/ramen.png",
+    "description": "Japanese ramen restaurant known for rich broth and handmade noodles.",
+    "customers": [
+      {
+        "customerID": 9031,
+        "customerName": "Mint",
+        "rating": 5,
+        "review": "Lovely curated titles and peaceful reading corner."
+      },
+      {
+        "customerID": 9032,
+        "customerName": "Ohm",
+        "rating": 4,
+        "review": "Helpful staff and good variety, but some imports are pricey."
+      },
+      {
+        "customerID": 9033,
+        "customerName": "Fern",
+        "rating": 5,
+        "review": "Great place for weekend browsing. Their book club is excellent."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Shops Mart",
+    "image": "/assets/shops.png",
+    "description": "Neighborhood convenience shop with daily essentials and snacks.",
+    "customers": [
+      {
+        "customerID": 9041,
+        "customerName": "Boss",
+        "rating": 4,
+        "review": "Fresh seafood and nice ambience. Live music starts a bit late."
+      },
+      {
+        "customerID": 9042,
+        "customerName": "Pla",
+        "rating": 5,
+        "review": "Perfect for dinner with friends. Grilled squid was amazing."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Shabu",
+    "description": "thai shabu",
+    "image": "/assets/shops.png",
+    "customers": []
+  }
+]

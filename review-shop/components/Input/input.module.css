@@ -1,0 +1,17 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+    & input{
+        padding: 0.5rem;
+    }
+    & input[type="file"]{
+     border: 1px dashed var(--border-color);
+    }
+    & input[type="file"]::file-selector-button{
+        background-color: var(--secondary-color);
+        border: none;
+        padding: .5rem .75rem;
+        border-radius: 0.5rem;
+    }
+}
